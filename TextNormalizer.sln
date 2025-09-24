@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextNormalizer", "TextNormalizer\TextNormalizer.csproj", "{3309C9A8-CA27-FDDF-9762-4891DA456B60}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "解决方案项", "解决方案项", "{9FA3D6BD-1EC1-3BA5-80CB-CE02773A58D5}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		README.EN.md = README.EN.md
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextNormalizer.Tests", "TextNormalizer.Tests\TextNormalizer.Tests.csproj", "{A30060A7-4F5B-4BBB-93CE-37E6599BBCCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3309C9A8-CA27-FDDF-9762-4891DA456B60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3309C9A8-CA27-FDDF-9762-4891DA456B60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3309C9A8-CA27-FDDF-9762-4891DA456B60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3309C9A8-CA27-FDDF-9762-4891DA456B60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A30060A7-4F5B-4BBB-93CE-37E6599BBCCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A30060A7-4F5B-4BBB-93CE-37E6599BBCCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A30060A7-4F5B-4BBB-93CE-37E6599BBCCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A30060A7-4F5B-4BBB-93CE-37E6599BBCCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD65C107-0EBD-4239-BAD4-578F4B4F079F}
+	EndGlobalSection
+EndGlobal
