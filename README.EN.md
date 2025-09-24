@@ -1,4 +1,6 @@
-﻿# TextNormalizer
+﻿（ [简体中文](README.md) |  English ）
+
+# TextNormalizer
 
 An open-source .NET library for **standardizing English text and numbers**. It automatically handles issues like number conversion, abbreviation expansion, and format unification in unstructured English content, making it suitable for scenarios such as data cleaning and NLP preprocessing.
 
